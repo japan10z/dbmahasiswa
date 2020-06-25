@@ -1,0 +1,31 @@
+{
+	datamahasiswa: [
+		{
+			"foto": '<img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/69458446_2963415220398021_4220459560558657536_n.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=UBeyQ-orrsoAX8YXSyS&_nc_ht=scontent-sin6-2.xx&oh=f454f5c40aa4b8096bbfe48856f0b324&oe=5F174954" height="100" width="100">',
+      "nim":"195150209111004", 
+      "nama":"Moh. Fazriyal Audy",
+      "jurusan":"Teknik Informatika",
+      "fakultas":"FILKOM",
+      "alamat":"jln. ke SurgaNya",
+      "noHP":"081222333444"
+		},
+		{
+			"foto": '<img src="https://disk.mediaindonesia.com/thumbs/1200x-/news/2018/10/6d6c224641cdcff679e89c90ba2f7b8c.jpg" height="100" width="100"/>',
+      "nim":"125060400111044", 
+      "nama": "Isyana Sarasvati", 
+      "jurusan": "Teknik Informatika",
+      "fakultas": "FILKOM",
+      "alamat": "Jl. Suka Nyanyi",
+      "noHP":"081234567890"
+		},
+		{
+		  "foto": '<img src="https://img.okeinfo.net/content/2019/06/04/33/2063750/komentari-cara-marion-jola-pegang-ular-presenter-sere-kalina-dicibir-netizen-XxstD9n5pC.jpg" height="100" width="100"/>',
+      "nim":"135060401111005", 
+      "nama": "Marion Jola", 
+      "jurusan":"Komunikasi",
+      "fakultas": "FISIP",
+      "alamat": "Kec. Wakanda",
+      "noHP":"08765432109"
+		}
+	],
+}
